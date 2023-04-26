@@ -1,5 +1,5 @@
 # Programming Questions Generator - Using a Large Language machine learning model:
-A Python 3 based application that generates specified number of programming questions from a programming language(Python/Java) and a topic from the list of topics displayed.
+A Python 3 based application that generates specified number of programming questions from a programming language(Python/Java) in a selected programming level and a topic from the list of topics displayed.
 This application internally uses GPT 3.5 turbo engine which is one of the advanced OpenAI's machine learning Language models.
 
 File to execute/run : program_generator_controller.py
@@ -29,7 +29,7 @@ Note:
 
 What to expect - A typical use case:
   - Upon executing the program_generator_controller.py, a GUI window launches where the user has the option to select a specified number of 
-    programming questions, a programming language(Python/Java) and a topic from the list of topics displayed.
+    programming questions, a programming language(Python/Java), a programming level and a topic from the list of topics displayed.
   - User name and topic selection are mandatory inputs expected from the user.
   - Click the Generate questions button. The questions will be generated and stored in a text(.txt) file.
   - The path to the file created will be displayed to the user. 
