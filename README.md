@@ -35,7 +35,7 @@ What to expect - A typical use case:
   - The path to the file created will be displayed to the user. 
   - Browse button will take the user to the folder where the file is generated.
   - Select file and click open to view the contents in notepad(launched by the program)
-For troubleshooting and debug purposes, a log file is also generated in the location ./out/logs
+  - For troubleshooting and debug purposes, a log file is also generated in the location ./out/logs
 
 Outlook:
 
