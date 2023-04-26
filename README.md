@@ -43,4 +43,4 @@ For now, the project uses system, user and assistant messages in the initializat
 of this project is to highlight and showcase the possibilities of using an LLM in education enrichment.
 The ML model can be trained using expert vetted, good quality training data to obtain specific, high quality results.
 Fine tuning is also a future addition that is expected in the GPT model used here which can improve the outcome further.
-
+The application is customizable to include more programming languages, topics and questions via minor, straightforward code changes.
