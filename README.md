@@ -40,7 +40,7 @@ For troubleshooting and debug purposes, a log file is also generated in the loca
 Outlook:
 
 For now, the project uses system, user and assistant messages in the initialization phase to set a context. The intent 
-of this project is to highlight and showcase the possibilities of using an LLM as an educational assist.
+of this project is to highlight and showcase the possibilities of using an LLM in education enrichment.
 The ML model can be trained using expert vetted, good quality training data to obtain specific, high quality results.
 Fine tuning is also a future addition that is expected in the GPT model used here which can improve the outcome further.
 
